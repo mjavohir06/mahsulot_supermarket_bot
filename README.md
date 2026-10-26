@@ -1,3 +1,5 @@
+> Bu eski versiya va arxivlangan. Amaldagisi: [mahsulot_supermarket_bot_v2](https://github.com/mjavohir06/mahsulot_supermarket_bot_v2)
+
 # Mahsulotlar katalogi bot
 
 GrammY + TypeScript + PostgreSQL + TypeORM asosida qurilgan, do'kon
